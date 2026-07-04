@@ -35,12 +35,6 @@ With 2+ years of experience across full-stack development, AI engineering, cloud
 
 Autonomous does not mean unsupervised. I design systems where freedom grows with evidence: low-risk work moves quickly, while consequential actions remain reviewable, reversible, and observable.
 
-## Representative systems
-
-- **OpsPilot** — an operations agent that gathers signals, proposes recovery plans, requests approval, and logs every tool call.
-- **SignalDesk** — a grounded knowledge assistant that combines hybrid retrieval, reranking, citations, and evaluation suites.
-- **LaunchRail** — a multi-agent delivery workspace coordinating planning, implementation, review, and release through one auditable project state.
-
 ## Let's build something useful
 
 I'm open to selected AI product, autonomous agent, full-stack application, workflow automation, and architecture engagements.
