@@ -47,7 +47,7 @@ I'm open to selected AI product, autonomous agent, full-stack application, workf
 
 - Email: [macdave6321@gmail.com.com](mailto:macdave6321@gmail.com)
 - Résumé: [View resume](./resume.pdf)
-
+- Contact Number: +63 977 470 7254
 ---
 
 <sub>Clear plans. Safe actions. Verified results.</sub>
