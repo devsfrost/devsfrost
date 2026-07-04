@@ -4,7 +4,7 @@
 
 I build intelligent products that can plan, reason, and act—without losing the reliability, transparency, and human oversight production software needs.
 
-With 8+ years of experience across full-stack development, AI engineering, cloud architecture, and automation, I work from interface to infrastructure: shaping accessible user experiences, designing resilient APIs, orchestrating agent workflows, and shipping observable cloud systems.
+With 2+ years of experience across full-stack development, AI engineering, cloud architecture, and automation, I work from interface to infrastructure: shaping accessible user experiences, designing resilient APIs, orchestrating agent workflows, and shipping observable cloud systems.
 
 ## What I build
 
