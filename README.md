@@ -46,7 +46,7 @@ Autonomous does not mean unsupervised. I design systems where freedom grows with
 I'm open to selected AI product, autonomous agent, full-stack application, workflow automation, and architecture engagements.
 
 - Email: [macdave6321@gmail.com.com](mailto:macdave6321@gmail.com)
-- Résumé: [View resume](./resume.pdf)
+- Resume: [View resume](./resume.pdf)
 - Contact Number: +63 977 470 7254
 ---
 
